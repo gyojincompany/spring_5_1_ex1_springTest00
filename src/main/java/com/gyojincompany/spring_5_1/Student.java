@@ -7,6 +7,13 @@ public class Student {
 	private String gradeNum;//학년
 	private String classNum;//반
 	
+	
+	
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public Student(String name, String age, String gradeNum, String classNum) {
 		super();
 		this.name = name;

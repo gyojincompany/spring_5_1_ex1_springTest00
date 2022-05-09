@@ -2,7 +2,7 @@ package com.gyojincompany.spring_5_1;
 
 public class StudentInfo {
 
-	private Student student;		
+	private Student student;//의존		
 
 	public StudentInfo(Student student) {
 		super();
